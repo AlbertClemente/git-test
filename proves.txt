@@ -4,6 +4,12 @@ Se cree ampliamente que la historia de Lorem Ipsum se origina con Cicerón en el
 
 "qui dolorem ipsum, quia dolor sit amet consectetur adipisci velit, sed quia non numquam eius modi tempora incidunt, ut labore et dolore magnam aliquam quaerat voluptatem".
 
-Esto es reconocible, en parte, como el estándar del Lorem Ipsum de hoy y fue traducido a:
+Esto es reconocible (lo reconocerás tú si sabes algo de latín...), en parte, como el estándar del Lorem Ipsum de hoy y fue traducido a:
 
 "Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but occasionally circumstances occur in which toil and pain can procure him some great pleasure".
+
+Pero, además, podemos utilizar otros generadores de texto falso, como el HODOR IPSUM. Aquí un ejemplo:
+
+If you haven't seen Game of Thrones, go watch it right now. If you have then you'll totally get why this Hodor themed lorem ipsum generator is just brilliant.
+
+Hodor. Hodor hodor, hodor. Hodor hodor hodor hodor hodor. Hodor. Hodor! Hodor hodor, hodor; hodor hodor hodor. Hodor. Hodor hodor; hodor hodor - hodor, hodor, hodor hodor. Hodor, hodor. Hodor. Hodor, hodor hodor hodor; hodor hodor; hodor hodor hodor! Hodor hodor HODOR! Hodor hodor... Hodor hodor hodor...
