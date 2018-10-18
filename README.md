@@ -1,5 +1,5 @@
 # git-test - Examen GIT IT Academy
 
-## De qué va:
+## What's about:
 
-> Este es el readme.md para el examen de GIT (Introducción)
+This is the git exam repo for the Git introductory path on IT Academy.
